@@ -1,19 +1,48 @@
-# 2D Space Shooter (Complete Unity Project)
+# Through Galaxies
+A hardcore shoot'em up featuring weapon switching/upgrading and tough bosses.
 
-This is a complete project of a very simple 2D space shooter game created with Unity.
-The game itself is not refined, yet it contains all the "ingredients"
-needed to learn the paradigms underlying videogames development including (but not limited to) 
-player-enemies interaction, physics, GUI, sounds, 2D parallax, etc.
+![Imgur](http://i.imgur.com/SPeIU42.gif)
 
-I normally use this game for introductory hands-on workshops where participants 
-(who often don't have coding skills) learn to build a complete mobile 
-video game from scratch in a few hours.
+## Features
+- Maneuver 3 powerful weapons to overwhelm your enemies
+- Upgrade your weapons as you like
+- Dodge countless bullets from everywhere
+- Challenge 3 tough bosses fighting with their own unique style
 
-![Screenshot of the 2D Space Shooter](https://raw.githubusercontent.com/albertobeta/2D-SpaceShooter/master/Assets/Sprites/screenShot.png)
+## Links
+- [Google Play (Android)](https://play.google.com/store/apps/details?id=com.Timespawn.ThroughGalaxies)
+- [itch.io (web browser)](https://nagachiang.itch.io/through-galaxies)
+- [Gameplay Trailer (Youtube)](https://www.youtube.com/watch?v=X-sCpzsHnho)
+- [Follow me on Twitter](https://twitter.com/NagaChiang)
 
-The game is released under a Creative Commons License (see code and
-readme files in the sprites folder for more details).
-The sprites are taken from a [tutorial on Gamedevtuts+](http://gamedevelopment.tutsplus.com/series/build-a-space-based-shoot-em-up-in-construct-2--gamedev-12704)
-and were designed by [Jacob Zinman-Jeanes](http://jeanes.co).
-The C# code for Unity3D has been written from scratch and the gameplay kept simple for
-didactic purposes.
+## Credits
+- [Space Shooter Tutorial by Unity](https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
+- [Counter-Strike by SoJa](http://www.dafont.com/counter-strike.font)
+- [Free SciFi Fighter by CGPitbull](https://www.assetstore.unity3d.com/en/#!/content/11711)
+- [Space Droid by Adequate](https://www.assetstore.unity3d.com/en/#!/content/32200)
+- [UAV Trident by Jaroslav Grafskiy](https://www.assetstore.unity3d.com/en/#!/content/46128)
+- [KY Magic Effects Free by Kakky](https://www.assetstore.unity3d.com/en/#!/content/21927)
+- [Astra Starship Fleet Package by Daniel Kole Productions](https://www.assetstore.unity3d.com/en/#!/content/4392)
+- [Crystal Package by VDGames](https://www.assetstore.unity3d.com/en/#!/content/57538)
+- [Mothership by yulifernandez](https://www.assetstore.unity3d.com/en/#!/content/35608)
+- [Laser Construction Kit by Bubaproducer](https://www.assetstore.unity3d.com/en/#!/content/15966)
+- [Lune by Y&V (NCS Release)](https://www.youtube.com/watch?v=n79aphwhpW0)
+- GDC Game Audio Bundle 2015/2016
+  - 3maze - ICE BLOCK
+  - Alexander Kopeikin - Rocks
+  - Bottle Rocket Fx - Cyborg Collection
+  - Digital Rain Lab - Bleeping Buttons
+  - Digital Rain Lab - Signal Frontiers
+  - George Karagioules - The Source Collection SFX Pack
+  - Kpow Sounds - UI SOUNDPACKS
+  - Membrans - Astro Droid Sound Pack 01
+  - Sergey Eybog - Handheld Tranceivers
+  - Soundbankster - The Sci-Fi Book
+  - SoundBits - Computer Sound FX 2.0
+  - SoundMorph - Future Weapons
+  - SoundMorph - Future Weapons 2
+  - SoundMorph - Lost Transmissions
+  - SoundMorph - Robotic Lifeforms
+  - SoundMorph - Sinematic
+  - Soundopolis - CB Radio
+  - TheLibrarybyEmptySea - UI1 
