@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6855170523666724a9a3b2839b64ed10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - endlessEasyHighScore: {instanceID: 0}
+  - endlessNormalHighScore: {instanceID: 0}
+  - endlessHardHighScore: {instanceID: 0}
+  - endlessNIGHTMAREHighScore: {instanceID: 0}
+  - buttonClick: {fileID: 8300000, guid: 1e694d51895cc4416970222f96028f01, type: 3}
+  - mainMenu: {instanceID: 0}
+  - highScoresMenu: {instanceID: 0}
+  - settingsMenu: {instanceID: 0}
+  - gamemodesMenu: {instanceID: 0}
+  - selectDifficultyMenu: {instanceID: 0}
+  - clearHighScoresPrompt: {instanceID: 0}
+  - loadingText: {instanceID: 0}
+  - audioMixer: {fileID: 24100000, guid: 52f0e7cad4e412d439f6b23e567f8747, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
